@@ -8,7 +8,7 @@
 Потрібен Rust 1.70 або новіший (https://rust-lang.org, утиліта rustup). Програма працює у Windows, Linux і macOS.
 
 ```
-git clone <адреса репозиторію> pagesim
+git clone https://github.com/kompotov/pagesim pagesim
 cd pagesim
 cargo build --release
 ```
